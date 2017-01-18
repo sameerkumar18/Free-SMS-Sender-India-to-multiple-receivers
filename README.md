@@ -32,12 +32,16 @@ Check out the latest development version anonymously with::
 To install libraries, run::
 
 	$ pip install requests
-  
+
+-------
 #### Developer/Company
+-------
 * Homepage: www.about.me/sameerkumar18
 * e-mail: sam@sameerkumar.website
 * Twitter: [@sameer_kumar18](https://twitter.com/sameer_kumar18 "sameer_kumar18 on twitter")
 * https://www.linkedin.com/in/sameer-kumar18
+#### Development
+Want to contribute? Great!
 
 -------
 License
