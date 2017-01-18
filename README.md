@@ -40,7 +40,10 @@ To install libraries, run::
 * e-mail: sam@sameerkumar.website
 * Twitter: [@sameer_kumar18](https://twitter.com/sameer_kumar18 "sameer_kumar18 on twitter")
 * https://www.linkedin.com/in/sameer-kumar18
+-------
 #### Development
+-------
+
 Want to contribute? Great!
 
 -------
