@@ -27,25 +27,13 @@ The code is hosted at https://github.com/sameerkumar18/Free-SMS-Sender-India-to-
 Check out the latest development version anonymously with::
 
     $ git clone git://github.com/sameerkumar18/Free-SMS-Sender-India-to-multiple-receivers.git
-    $ cd python-twitter
+    $ cd Free-SMS-Sender-India-to-multiple-receivers
 
-To install dependencies, run either::
+To install libraries, run::
 
-	$ make dev
+	$ pip install requests
   
   
-To run the unit tests with a single Python version::
-
-    $ make test
-
-
-------------
-Contributors
-------------
-
-Originally two libraries by DeWitt Clinton and Mike Taylor which was then merged into python-twitter.
-
-Now it's a full-on open source project with many contributors over time. See AUTHORS.rst for the complete list.
 
 -------
 License
